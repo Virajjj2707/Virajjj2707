@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm viraj vadhane</h1>
+<h1 align="center">Hi 👋, I'm Viraj Vadhane</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/viraj277" target="blank"><img src="https://img.shields.io/twitter/follow/viraj277?logo=twitter&style=for-the-badge" alt="viraj277" /></a> </p>
