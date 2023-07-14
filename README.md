@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React.js<br>⚡ Fun fact We can netflix and chill after pushing my code to github
+🌱 I’m currently learning Next.js
 
 
 ## 🌐 Socials:
