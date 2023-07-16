@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Viraj,
 #### I am Full-Stack Web Developer
-![I am Full-Stack Web Developer](https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=900&t=st=1689527730~exp=1689528330~hmac=a0f70107cde5c3792ce28c77b1c836e4299fe38af3185f2ba72bba1c9b266cbd)
+![I am Full-Stack Web Developer](https://i.pinimg.com/564x/9b/f4/44/9bf4443834e957d1a6814a792a2d43ed.jpg)
 
 I am currently learning Next.JS.
 
@@ -16,8 +16,5 @@ Skills: Mongo DB / REACT / JS / HTML / CSS/Next.JS/Firebase/ REST APIs
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Virajjj2707&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Virajjj2707)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Virajjj2707)  
 
-![Profile views](https://gpvc.arturio.dev/Virajjj2707)  
