@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Viraj,
 #### I am Full-Stack Web Developer
-![I am Full-Stack Web Developer](https://i.pinimg.com/564x/9b/f4/44/9bf4443834e957d1a6814a792a2d43ed.jpg)
+![I am Full-Stack Web Developer](https://i.pinimg.com/originals/0d/8c/6a/0d8c6a27b4b039d5b9cfe8aa4777766d.png)
 
 I am currently learning Next.JS.
 
