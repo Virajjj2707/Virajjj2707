@@ -6,7 +6,7 @@ I am currently learning Next.JS.
 
 Skills: Mongo DB / REACT / JS / HTML / CSS/Next.JS/Firebase/ REST APIs
 
-- 🔭 I’m currently working on E-Commerce Project Using AI/ML algorithms 
+- 🔭 I’m currently working on E-Commerce Project 
 - 📫 How to reach me: virajvadhane007@gmail.com 
 
 
